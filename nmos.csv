@@ -1,0 +1,12 @@
+﻿NMOS CHAR,RVT,LVT,SLVT,SRAM,Units
+Vds = 0.7V,304,214,172,364,mV
+Vds= 10mv,268,210,116,342,mV
+SubThreshold Swing (Vds 0.7 V),224.3,255.4,297.6,193.7,k mV/decade
+SubThreshold Swing (Vds 10mV),154.4,162.7,177.39,145.6,k mV/decade
+Off current (Vds 10mv),9.87,126,1220,0.165,pA
+Off current (Vds 100mV),31.35,389.4,4510.7,2.41,pA
+Off current (Vds 400mV),44.9,529.4,5427.6,3.88,pA
+Off current (Vds 0.7V),78,724.1,7112.6,18.6,pA
+On Current (Vds 0.7V),1.14E+02,1.38E+02,1.53E+02,86.9,uA
+On /Off Ratio ,1461538,190581.4,21511.12,4672043,
+O/p Resistance ,47.6,35.8,17.86,66.33,Kohm
